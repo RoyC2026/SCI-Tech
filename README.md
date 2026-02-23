@@ -1,5 +1,13 @@
-## Hi, I'm Roy Chen
-## Major - Biology & Information Science and Technology
-## Academic Interests - I am interested in medicine, data analysis, and how technology can improve healthcare decisions
-## What I Hope to Learn - I hope to better understand how coding, data science, and version control systems support scientific research and reproducibility.
-## Fun Fact - I enjoy baking and learning how biological systems connect to health outcomes.
+## Data Analysis Notebook
+## Overview - This repository contains my Jupyter Notebook and dataset used for data analysis.
+## Contents
+- Jupyter Notebook (.ipynb file)
+- CSV dataset used in analysis
+- Data visualizations
+- Basic interpretation of results
+## Purpose - The goal of this project is to analyze data, create visualizations, and demonstrate reproducibility using GitHub and version control.
+## Tools Used
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- GitHub Codespaces
